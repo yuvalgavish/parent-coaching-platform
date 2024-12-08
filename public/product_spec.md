@@ -107,7 +107,7 @@ Essential features:
 
 ### 4.1 Technology Stack
 
-- Frontend: Next.js 13+  
+- Frontend: Vite + React  
 - Backend: Supabase  
 - Database: PostgreSQL  
 - Authentication: Supabase Auth  
